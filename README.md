@@ -21,7 +21,7 @@ ___
 
 - 📝 Checkout my [Resume](https://cdn.flowcode.com/prodassets/CV_Matheus_Amorim_ENUS.pdf?ts=1673972850072230994)
   
-- :sparkling_heart: Fun Fact - I love using Emojis 
+- :sparkling_heart: Fun Fact - **I love using Emojis** 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtsamorim/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_mtsamorim/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mtsamorim1/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mtsamorim) [![Linktree](https://img.shields.io/badge/linkrbio-9347FF?style=for-the-badge&ogoColor=white)](https://linkr.bio/mtsamorim)
