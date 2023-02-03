@@ -10,7 +10,7 @@ ___
 ___
 
 <div width="100%" align="center">
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsamorim&langs_count=6&theme=shades-of-purple&layout=compact" />
+  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsamorim&langs_count=6&theme=shades-of-purple&layout=compact" />
 </div>
 
 ___
