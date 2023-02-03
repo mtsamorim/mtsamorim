@@ -24,6 +24,6 @@
 
 ___
 
-| <img src="https://github-readme-stats.vercel.app/api?username=mtsamorim&theme=shades-of-purple&show_icons=true" /> | <img src=src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsamorim&langs_count=6&theme=shades-of-purple&layout=compact"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=mtsamorim&theme=shades-of-purple&show_icons=true" /> | <img src=src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsamorim&langs_count=6&theme=shades-of-purple&layout=compact" alt="stats"/> |
 |:---:|:---:|
 
