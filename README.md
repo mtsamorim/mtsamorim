@@ -24,7 +24,7 @@
 
 ___
 
-| <img href="https://github.com/mtsamorim" src="https://github-readme-stats.vercel.app/api?username=mtsamorim&theme=shades-of-purple&show_icons=true" /> | <img href="https://github.com/mtsamorim" src="https://github-readme-streak-stats.herokuapp.com/?user=mtsamorim&theme=shades-of-purple" alt="stats" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=mtsamorim&theme=shades-of-purple&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtsamorim&theme=shades-of-purple" alt="stats" /> |
 |:---:|:---:|
 
 ___
@@ -32,6 +32,3 @@ ___
 <div width="100%" align="center">
   <img href="https://github.com/mtsamorim" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsamorim&langs_count=6&theme=shades-of-purple&layout=compact" />
 </div>
-
-___
-
