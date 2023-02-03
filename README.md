@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Amorim</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-
-
-<img align="right" alt="Coding" width=300 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-
 <div align="center">
   <a href="https://github.com/mtsamorim">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mtsamorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,6 +8,8 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtsamorim&label=Profile%20views&color=0e75b6&style=flat" alt="mtsamorim" /> </p>
+  
+<img align="right" alt="Coding" width=300 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 - 🌱 I’m currently learning **Data Manipulation, Image Processing and Databases**
 
