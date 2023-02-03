@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mtsamorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsamorim&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtsamorim&label=Profile%20views&color=0e75b6&style=flat" alt="mtsamorim" /> </p>
   
 <img align="right" alt="Coding" width=300 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
@@ -18,7 +18,7 @@
 - 📫 How to reach me **amorimmatheus1001@gmail.com**
 
 - 📄 Know about my experiences [https://linkr.bio/mtsamorim](https://linkr.bio/mtsamorim)
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mtsamorim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mtsamorim" height="30" width="40" /></a>
