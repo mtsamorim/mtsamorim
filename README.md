@@ -10,7 +10,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtsamorim&label=Profile%20views&color=0e75b6&style=flat" alt="mtsamorim" /> </p>
   
-<img align="right" alt="Coding" width=200 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="Coding" width=180 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 - 🌱 I’m currently learning **Data Manipulation, Image Processing and Databases**
 
