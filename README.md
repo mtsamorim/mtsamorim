@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python and Linux**
 
-- 📫 How to reach me [Mail](mailto:amorimmatheus1001@gmail.com)
+- 📫 How to reach me **amorimmatheus1001@gmail.com**
 
 - 📝 Checkout my [Resume](https://cdn.flowcode.com/prodassets/CV_Matheus_Amorim_ENUS.pdf?ts=1673972850072230994)
   
