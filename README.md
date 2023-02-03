@@ -4,8 +4,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/mtsamorim">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mtsamorim&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsamorim&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mtsamorim&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsamorim&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtsamorim&label=Profile%20views&color=0e75b6&style=flat" alt="mtsamorim" /> </p>
