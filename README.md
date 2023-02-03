@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Amorim</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-___
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtsamorim&label=Profile%20views&color=0e75b6&style=flat" alt="mtsamorim" /> </p>
   
 <img align="right" alt="Coding" width=200 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
