@@ -30,5 +30,5 @@ ___
 ___
 
 <div width="100%" align="center">
-  <img href="https://github.com/mtsamorim" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsamorim&langs_count=6&theme=shades-of-purple&layout=compact" />
+  <img href="https://github.com/mtsamorim" width=194px width=494px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsamorim&langs_count=6&theme=shades-of-purple&layout=compact" />
 </div>
