@@ -18,7 +18,9 @@
 
 - 📫 How to reach me **amorimmatheus1001@gmail.com**
 
-- 📄 Know about my experiences [https://linkr.bio/mtsamorim](https://linkr.bio/mtsamorim)
+- 📝 Checkout my [Resume](https://cdn.flowcode.com/prodassets/CV_Matheus_Amorim_ENUS.pdf?ts=1673972850072230994)
+  
+- :sparkling_heart: Fun Fact - I love using Emojis 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtsamorim/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_mtsamorim/) [![Linktree](https://img.shields.io/badge/linkrbio-9347FF?style=for-the-badge&ogoColor=white)](https://linkr.bio/mtsamorim)
