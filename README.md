@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Amorim</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
-
+<br>
 <div align="center">
   <a href="https://github.com/mtsamorim">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mtsamorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
