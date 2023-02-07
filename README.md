@@ -19,7 +19,7 @@ ___
 
 - 📫 How to reach me **amorimmatheus1001@gmail.com**
 
-- 📝 Checkout my [![Dev.to blog](https://img.shields.io/badge/resume-0A0A0A?style=for-the-badge&logoColor=white)](https://cdn.flowcode.com/prodassets/CV_MATHEUS-AMORIM_ENUS.pdf?ts=1675787390908180180)
+- 📝 Checkout my [Resume](https://cdn.flowcode.com/prodassets/CV_MATHEUS-AMORIM_ENUS.pdf?ts=1675787390908180180)
   
 - :sparkling_heart: Fun Fact - **I love using Emojis** 
 
