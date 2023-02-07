@@ -19,7 +19,7 @@ ___
 
 - 📫 How to reach me **amorimmatheus1001@gmail.com**
 
-- 📝 Checkout my [![Resume](flowcode.com/p/LuNWbCQ5k?fc=0)]
+- 📝 Checkout my [![Resume](flowcode.com/p/LuNWbCQ5k?fc=0](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logoColor=white)](flowcode.com/p/LuNWbCQ5k?fc=0)
   
 - :sparkling_heart: Fun Fact - **I love using Emojis** 
 
